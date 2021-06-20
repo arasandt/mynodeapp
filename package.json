@@ -1,0 +1,24 @@
+{
+  "name": "mynodeapp",
+  "version": "1.0.0",
+  "description": "Using AWS Lambda with API Gateway and S3 for imagemagick tasks.",
+  "main": "handler.js",
+  "dependencies": {
+    "aws-sdk": "^2.931.0",
+    "imagemagick": "^0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adayalan1/mynodeapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adayalan1/mynodeapp/issues"
+  },
+  "homepage": "https://github.com/adayalan1/mynodeapp#readme"
+}
